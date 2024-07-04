@@ -65,9 +65,7 @@ This project implements a Sudoku Solver using a backtracking algorithm in C++. T
 
 
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
