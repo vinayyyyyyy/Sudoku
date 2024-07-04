@@ -14,18 +14,7 @@ This project implements a Sudoku Solver using a backtracking algorithm in C++. T
 
 - C++ compiler (e.g., `g++`)
 
-### Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/sudoku-solver.git
-    cd sudoku-solver
-    ```
-
-2. Compile the code:
-    ```sh
-    g++ -o SudokuSolver SudokuSolver.cpp
-    ```
 
 ## Usage
 
