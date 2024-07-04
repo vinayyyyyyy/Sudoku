@@ -63,9 +63,7 @@ This project implements a Sudoku Solver using a backtracking algorithm in C++. T
 - `bool SudokuSolver(int board[9][9], int i, int j, int n)`: Solves the Sudoku puzzle using backtracking.
 - `int main()`: Reads the Sudoku puzzle, calls the solver, and prints the result.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
 
